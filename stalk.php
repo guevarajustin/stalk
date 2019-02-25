@@ -1,6 +1,8 @@
 <?php
 namespace jgpf_qQZG0;
 
+defined('ABSPATH') or die();
+
 final class Stalk {
 	
     private function __construct() {

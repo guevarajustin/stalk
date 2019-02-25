@@ -1,5 +1,4 @@
-# Stalk - WordPress theme component that stores website visitor data
-## 0.1.0
+# wordpress_theme
 
-* Make sure browscap is enabled (php.ini)
-* Visitor data is easily spoofed or obfuscated so the data provided by this component can often be inaccurate
+* This is the custom built WordPress theme running at [guevarajust.in](https://guevarajust.in)
+* Features custom WordPress core and WooCommerce templates, disabled out-of-the-box WordPress post functionality and security measures such as upload directory hiding and a disabled default REST API
